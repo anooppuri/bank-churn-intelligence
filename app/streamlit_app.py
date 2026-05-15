@@ -1605,7 +1605,7 @@ def main():
         f"<small style='color:{C['slate']};font-family:DM Sans;'>"
         f"Churn Intelligence System &nbsp;·&nbsp; "
         f"Gradient Boosting · SMOTE · Isotonic Calibration &nbsp;·&nbsp; "
-        f"ROC-AUC: {summary['best_roc_auc']:.4f} &nbsp;·&nbsp; "
+        f"ROC-AUC: {A['summ']['best_roc_auc']:.4f} &nbsp;·&nbsp; "
         f"10,000 European bank customers &nbsp;·&nbsp; "
         f"Created by Anoop Puri"
         f"</small>", unsafe_allow_html=True
