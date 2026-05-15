@@ -1,0 +1,23 @@
+{
+  "total_customers": 10000,
+  "actual_churners": 2037,
+  "actual_churn_rate": 0.2037,
+  "predicted_churners": 2887,
+  "predicted_churn_rate": 0.2887,
+  "best_model": "Gradient Boosting",
+  "best_roc_auc": 0.8671,
+  "best_f1": 0.6255,
+  "best_recall": 0.7696,
+  "best_precision": 0.5268,
+  "optimal_threshold": 0.2722,
+  "feature_count": 21,
+  "smote_applied": true,
+  "calibration": "isotonic_cv5",
+  "tuning": "tuned_hyperparams",
+  "risk_bands": {
+    "critical": 1319,
+    "high": 849,
+    "moderate": 1314,
+    "low": 6518
+  }
+}
