@@ -3,13 +3,9 @@
 # 🏦 Churn Intelligence System
 ### Predictive Risk Scoring & Customer Retention Analytics
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-Enabled-006600?style=flat-square)](https://xgboost.readthedocs.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-**European Retail Bank Portfolio · 10,000 Customers · 5 ML Models · SHAP Explainability**
+
+**European Retail Bank Portfolio · 10,000 Customers · 5 ML Models **
 
 [Dashboard](#streamlit-dashboard) · [Results](#model-results) · [Installation](#installation) · [Usage](#usage) · [Research Paper](docs/research_paper.md)
 
